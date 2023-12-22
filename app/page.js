@@ -10,7 +10,7 @@ export default function HomePage() {
     return (
         <div>
             <Header title="React" />
-            <Header title=".. is awesome" />
+            <Header title=".. is awesome!!" />
             <ul>
                 {names.map((name) => (
                     <li key={name}>{name}</li>
